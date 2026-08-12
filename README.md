@@ -19,6 +19,8 @@ The dataset is taken from the Kaggle Heart Disease dataset:
 ## SageMaker Evidence
 This repository includes a SageMaker training and testing preparation section in the notebook. Add actual SageMaker screenshots to the `images/` folder and update the README image links if needed.
 
+https://youtu.be/lgFTHkGuz4c
+
 ![SageMaker training screenshot](images/sagemaker_training.png)
 ![SageMaker training completion screenshot](images/sagemaker_completion.png)
 ![SageMaker metrics screenshot](images/sagemaker_metrics.png)
